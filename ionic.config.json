@@ -1,0 +1,8 @@
+{
+  "name": "ioniccordovaexperments",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "d51a6005"
+}
